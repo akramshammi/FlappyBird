@@ -3,7 +3,7 @@ using UnityEngine;
 public class Spawnerscriipt : MonoBehaviour
 {
     public GameObject Pipe;
-    public float spawnRate = 2;
+    public float spawnRate = 20;
     private float Timer = 0;
     public float heightOffset = 10;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
